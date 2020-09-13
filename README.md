@@ -1,6 +1,6 @@
 # NoZom
 
-## Sell Anything..
+## Sell Anything.. :moneybag:
 
 
 ** [App 1stP](https://gallant-ptolemy-8bc03b.netlify.app/) **

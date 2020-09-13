@@ -1,0 +1,14 @@
+.slick-slider .slick-list {
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    & .slick-track {
+        padding-top: 1em;
+        padding-bottom: 1em;
+        
+        & .slick-slide {
+            padding-top: 1em;
+            padding-bottom: 1em;
+        }
+    }
+}
